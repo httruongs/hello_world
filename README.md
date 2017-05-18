@@ -2,8 +2,8 @@
 Testing repository
 
 
-Hello the world!
+Hello everybody!
 My name is Huong Truong
-I am working at the lab, room 372
+I am taking Software Engineer at room number 274 on Thursday each week during summer.
 
-Huong
+Huong Truong
